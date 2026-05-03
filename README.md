@@ -91,12 +91,3 @@ Notebook file: Happiness_Predictor.ipynb
 ## Author
 Suhail – AI System Engineering Student
 
-
-```markdown
-## Dataset
-
-The dataset used in this project is included in this repository:
-
-- `2020.csv`
-
-It contains socio-economic features used to predict happiness scores.
